@@ -33,10 +33,15 @@ d) uptime;;
 #!/bin/bash
 ``` 
 ##### this should be at first of the file it staes it's a shell script 
+##### echo is used to print the following words that we want to print in single or doubble quotations for example
+```
+echo 'this is an example'
+```
 ##### the echo is used to make space between the line
 ```
 echo
 ```
+##### 
 ##### after editing save the file and change the permissions using chmod 
 ```
 chmod a+x filename
