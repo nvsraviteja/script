@@ -37,8 +37,8 @@ d) uptime;;
 ```
 chmod a+x filename
 ```
-#####then exicute the file 
-#####to execute the file use this command
+##### then exicute the file 
+##### to execute the file use this command
 ```
 ./filename
 ```
