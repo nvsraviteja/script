@@ -1,9 +1,9 @@
 # shell script example for case statement 
 
 ## it prints the output that we chose 
-### first create a file 
-### then paste the script
-### you can even edit the script as you want 
+#### first create a file 
+#### then paste the script
+#### you can even edit the script as you want 
 ```
 #!/bin/bash
 
