@@ -32,15 +32,15 @@ d) uptime;;
 ```
 #!/bin/bash
 ``` 
- this should be at first of the file it staes it's a shell script 
-after editing save the file and change the permissions using chmod 
+##### this should be at first of the file it staes it's a shell script 
+##### after editing save the file and change the permissions using chmod 
 ```
 chmod a+x filename
 ```
-then exicute the file 
-to execute the file use this command
+#####then exicute the file 
+#####to execute the file use this command
 ```
 ./filename
 ```
- states the present directory 
- to execute the script from other directory the give the full path of that file 
+##### states the present directory 
+##### to execute the script from other directory the give the full path of that file 
