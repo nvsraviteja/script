@@ -5,7 +5,6 @@
 #### then paste the script
 #### you can even edit the script as you want 
 ```
-#!/bin/bash
 
 echo 
 echo please chose one of the options below
