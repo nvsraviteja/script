@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 echo 
 echo please chose one of the options below
 echo
@@ -19,5 +17,6 @@ a) date;;
 b) ls -l ;;
 c) cat /etc/passwd | more;;
 d) uptime;;
+e) echo hey whatsup
 *) echo invalid choice
         	esac	 
