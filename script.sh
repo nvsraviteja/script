@@ -17,6 +17,6 @@ a) date;;
 b) ls -l ;;
 c) cat /etc/passwd | more;;
 d) uptime;;
-f) echo hello world
+e) echo hello world
 *) echo invalid choice
         	esac	 
