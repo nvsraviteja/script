@@ -13,7 +13,7 @@ echo
 echo 'd = check system uptime'
 echo 
 
-	read choices
+	read $choices
   	case $choices in 
 a) date;;
 b) ls -l ;;
